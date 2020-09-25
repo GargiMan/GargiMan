@@ -1,11 +1,11 @@
 ### Welcome on my GitHub profile
-I'm student of Faculty of Information technology at VUT Brno since 2019. 
-Before university i studied as electrical engineer 4 years in Trnava.
+I'm student at Faculty of Information technology VUT Brno since 2019. 
+I studied as electrical engineer 4 years in Trnava.
 Currently unemployed, looking for new job opportunities.
 
 #### My projects
 - Electric longboard [![Link](https://i.imgur.com/zWwNgJq.png)](https://github.com/GargiMan/GlBoard)
-- School projects (ivs, ijc and ios repository)
+- School projects
 
 #### Languages and skills
 - currently using and practicing C and C# for my projects
@@ -20,8 +20,7 @@ Currently unemployed, looking for new job opportunities.
 - interested in Android apps developing, device communication, data ecryption and AI
 - own a lot of microcontrollers and Raspberry Pi (i enjoy to work with it)
 - love skiing and snowboarding, intermediate chess player
-- everything what takes a long time should be automatized
-- always looking for logic connections 
+- love looking for logic connections 
 
 
 #### My other profiles 
