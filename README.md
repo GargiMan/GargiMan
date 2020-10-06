@@ -10,7 +10,7 @@ Currently unemployed, looking for new job opportunities.
 #### Languages and skills
 - currently using and practicing C and C# for my projects
 - need to practice C++, Python and Assembly
-- want to learn Java (Kotlin) for Android apps developing
+- want to learn Java (Kotlin) or Dart for Android apps developing
 - web scripting languages HTML, CSS, Javascript and PHP (not using or beginner user) 
 - Windows and Linux(WSL) user, Shell scripting is fun
 - amateur graphic and photo editor in Adobe Photoshop and Adobe Illustrator
