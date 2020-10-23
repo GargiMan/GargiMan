@@ -4,7 +4,7 @@ I studied as electrical engineer 4 years in Trnava.
 Currently unemployed, looking for new job opportunities.
 
 #### My projects
-- Electric longboard [![Link](https://i.imgur.com/zWwNgJq.png)](https://github.com/GargiMan/GlBoard)
+- [Electric longboard](https://github.com/GargiMan/GlBoard)
 - School projects
 
 #### Languages and skills
