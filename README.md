@@ -5,22 +5,23 @@ Currently unemployed, looking for new job opportunities.
 
 #### My projects
 - [Electric longboard](https://github.com/GargiMan/GlBoard)
+- [Project testing shell script](https://github.com/GargiMan/test-script)
 - School projects
 
 #### Languages and skills
 - currently using and practicing C and C# for my projects
 - need to practice C++, Python and Assembly
-- want to learn Java (Kotlin) or Dart for Android apps developing
-- web scripting languages HTML, CSS, Javascript and PHP (not using or beginner user) 
+- want to learn Java (Kotlin) or Dart for apps development
+- web scripting languages HTML, CSS and Javascript (not using or beginner user) 
 - Windows and Linux(WSL) user, Shell scripting is fun
 - amateur graphic and photo editor in Adobe Photoshop and Adobe Illustrator
 - using Git mostly over GitKraken 
 
 #### About me
-- interested in Android apps developing, device communication, data ecryption and AI
+- interested in Android apps developing, device communication, data ecryption, machine learning and UX design
 - own a lot of microcontrollers and Raspberry Pi (i enjoy to work with it)
 - love skiing and snowboarding, intermediate chess player
-- love looking for logic connections 
+- enjoy looking for logic connections 
 
 
 #### My other profiles 
