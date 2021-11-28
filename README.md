@@ -18,6 +18,4 @@ Currently working for Accenture as Software Engineer.
 - love skiing and snowboarding, intermediate chess player
 - enjoy looking for logic connections 
 
-
-#### My other profiles 
 [![Spotify](https://i.imgur.com/uBPKi5M.png)](https://open.spotify.com/user/11164276680?si=pVyuQP1OS7G6_dUOetpX_g)‏‏‎ ‎ ‏‏‎ ‎  [![StackOverflow](https://i.imgur.com/q3r5gXX.png)](https://stackoverflow.com/users/13996140/gargiman?tab=profile)
