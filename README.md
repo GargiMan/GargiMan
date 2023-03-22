@@ -1,7 +1,7 @@
 ### Welcome on my GitHub profile
 I'm student at Faculty of Information technology VUT Brno since 2019.
 I studied also as electrical engineer 4 years in Trnava.
-Currently working for Accenture as Software Engineer.
+In 2021-2022 worked for Accenture as Test Automation Developer.
 
 #### My projects
 - [Electric longboard](https://github.com/GargiMan/GlBoard)
@@ -13,9 +13,9 @@ Currently working for Accenture as Software Engineer.
 
 #### About me
 - to learn checklist: Kotlin, Dart
-- interested in Android apps developing, device communication, data ecryption, machine learning and UX design 
-- own a lot of microcontrollers and Raspberry Pi (i enjoy to work with it)
-- love skiing and snowboarding, intermediate chess player
-- enjoy looking for logic connections 
+- interested in Android apps development, device communication, data ecryption, machine learning and UI/UX design 
+- developing apps for microcontrollers and Raspberry Pi
+- love winter sports (skiing, snowboarding, ...), intermediate chess player, spent some time escaping from Tarkov
+- enjoy looking for logic connections
 
 [![Spotify](https://i.imgur.com/uBPKi5M.png)](https://open.spotify.com/user/11164276680?si=pVyuQP1OS7G6_dUOetpX_g)‏‏‎ ‎ ‏‏‎ ‎  [![StackOverflow](https://i.imgur.com/q3r5gXX.png)](https://stackoverflow.com/users/13996140/gargiman?tab=profile)
