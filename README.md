@@ -1,5 +1,5 @@
 ### Welcome on my GitHub profile
-I'm student at Faculty of Information technology VUT Brno since 2019.  
+I'm student at Faculty of Information technology VUT Brno since 2019.
 I studied also as electrical engineer 4 years in Trnava.  
 In 2021-2022 worked for Accenture as Test Automation Developer.  
 
