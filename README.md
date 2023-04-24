@@ -22,7 +22,7 @@ In 2021-2022 worked for Accenture as Test Automation Developer.
 
 #### About me
 - to learn checklist: Kotlin, Dart
-- interested in Android apps development, device communication, data ecryption, machine learning and UI/UX design 
+- interested in Android apps development, device communication, data ecryption and UI/UX design 
 - developing apps for microcontrollers and Raspberry Pi
 - love winter sports (skiing, snowboarding, ...), intermediate chess player, spent some time escaping from Tarkov
 - enjoy looking for logic connections
