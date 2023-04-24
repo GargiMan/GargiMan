@@ -9,7 +9,16 @@ In 2021-2022 worked for Accenture as Test Automation Developer.
 - School projects
 
 #### Skills
-![Windows](https://i.imgur.com/Zj17ztT.png) ![Linux](https://i.imgur.com/l7rGJYW.png) ![Terminal](https://i.imgur.com/NQcyKd0.png) ![C](https://i.imgur.com/tXWQWRQ.png) ![Python](https://i.imgur.com/cXo53At.png) ![Java](https://i.imgur.com/0JlGI1E.png) ![C++](https://i.imgur.com/R4PS5v6.png) ![Cucumber](https://i.imgur.com/tAMSZ2f.png) ![Selenium](https://i.imgur.com/elnOp7c.png) ![Adobe Photoshop](https://i.imgur.com/yqJ86XW.png) ![Adobe Illustrator](https://i.imgur.com/JcMFPvb.png)
+<img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="bash" alt="bash" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="c" alt="c" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="cplusplus" alt="cplusplus" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="java" alt="java" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/cucumber/cucumber-plain.svg" title="cucumber" alt="cucumber" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="selenium" alt="selenium" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain.svg" title="android" alt="android" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" title="photoshop" alt="photoshop" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-line.svg" title="illustrator" alt="illustrator" width="40" height="40"/>&nbsp;  
 
 #### About me
 - to learn checklist: Kotlin, Dart
