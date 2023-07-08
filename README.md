@@ -4,7 +4,7 @@ I studied also as electrical engineer 4 years in Trnava.
 In 2021-2022 worked for Accenture as Test Automation Developer.  
 
 #### My projects
-- [Electric longboard](https://github.com/GargiMan/GlBoard)
+- [Electric longboard](https://github.com/GargiMan/GlBoard) with [Android application](https://github.com/GargiMan/GlApp)
 - [Project testing shell script](https://github.com/GargiMan/test-script)
 - School projects
 
