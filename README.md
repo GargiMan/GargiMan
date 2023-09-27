@@ -28,7 +28,7 @@ My interests head to Android apps development, device communication, data encryp
 <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="windows"></a>&nbsp;
 <a href="#"><img src="https://img.shields.io/badge/android-20232A?style=for-the-badge&logo=android&logoColor=%a4c639" alt="Android"></a>&nbsp;
 <a href="#"><img src="https://img.shields.io/badge/adobe_photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="Adobe Photoshop"></a>&nbsp;
-<a href="#"><img src="https://img.shields.io/badge/adobe_photoshop-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt="Adobe Illustrator"></a>&nbsp;
+<a href="#"><img src="https://img.shields.io/badge/adobe_illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt="Adobe Illustrator"></a>&nbsp;
 
 #### Hobbies
 - love winter sports (skiing, snowboarding, ...)
