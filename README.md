@@ -8,7 +8,7 @@ My interests head to Android apps development, device communication, data encryp
 - [Project testing shell script](https://github.com/GargiMan/test-script)
 - School projects
 
-#### Skills
+#### Tech stack
 
 <a href="#"><img src="https://img.shields.io/badge/c-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"></a>&nbsp;
 <a href="#"><img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"></a>&nbsp;
@@ -20,6 +20,8 @@ My interests head to Android apps development, device communication, data encryp
 <a href="#"><img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"></a>&nbsp;
 <a href="#"><img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"></a>&nbsp;
 <a href="#"><img src="https://img.shields.io/badge/azure_devops-0078D7?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure DevOps"></a>&nbsp;
+<a href="#"><img src="https://img.shields.io/badge/gitlab-333333?style=for-the-badge&logo=gitlab&logoColor=FC6D26" alt="GitLab"></a>&nbsp;
+<a href="#"><img src="https://img.shields.io/badge/jira-DDDDDD?style=for-the-badge&logo=jira&logoColor=0052CC" alt="JIRA"></a>&nbsp;
 <a href="#"><img src="https://img.shields.io/badge/markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown"></a>&nbsp;
 <a href="#"><img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino"></a>&nbsp;
 <a href="#"><img src="https://img.shields.io/badge/RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi" alt="Raspberry Pi"></a>&nbsp;
