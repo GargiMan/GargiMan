@@ -36,6 +36,6 @@ My interests head to Android apps development, device communication, data encryp
 - love winter sports (skiing, snowboarding, ...)
 - intermediate chess player
 - spent some time escaping from Tarkov
-- enjoy looking for logic connections
+- enjoy looking for logic connections  
 
-[![Spotify](https://i.imgur.com/uBPKi5M.png)](https://open.spotify.com/user/11164276680?si=pVyuQP1OS7G6_dUOetpX_g)‏‏‎ ‎ ‏‏‎ ‎  [![StackOverflow](https://i.imgur.com/q3r5gXX.png)](https://stackoverflow.com/users/13996140/gargiman?tab=profile)
+[![Spotify](https://i.imgur.com/uBPKi5M.png)](https://open.spotify.com/user/11164276680?si=pVyuQP1OS7G6_dUOetpX_g)‏‏‎ ‎ ‏‏‎ ‎  [![StackOverflow](https://i.imgur.com/q3r5gXX.png)](https://stackoverflow.com/users/13996140/gargiman?tab=profile)‏‏‎ ‎ ‏‏‎ ‎  <a href="https://www.buymeacoffee.com/gargiman"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a pizza&emoji=🍕&slug=gargiman&button_colour=5b5548&font_colour=ffffff&font_family=Poppins&outline_colour=ffffff&coffee_colour=FFDD00" /></a>‏‏‎  
