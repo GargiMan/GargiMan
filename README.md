@@ -38,4 +38,4 @@ My interests head to Android apps development, device communication, data encryp
 - spent some time escaping from Tarkov
 - enjoy looking for logic connections  
 
-[![]()]()‏‏‎ ‎ ‏‏‎ ‎  <a href="https://www.buymeacoffee.com/gargiman"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a pizza&emoji=🍕&slug=gargiman&button_colour=5b5548&font_colour=ffffff&font_family=Poppins&outline_colour=ffffff&coffee_colour=FFDD00" /></a>‏‏‎  
+[![]()]()‏‏‎ ‎ ‏‏‎ ‎  <a href="https://www.buymeacoffee.com/gargiman"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=gargiman&button_colour=504e4e&font_colour=ffffff&font_family=Lato&outline_colour=ffffff&coffee_colour=FFDD00" /></a>
